@@ -1,2 +1,3 @@
-# 10-port-10-100Mbps-POE-Switch-
-10-port 10/100Mbps POE Switch 10/100M PoE ports 10/100M uplink RJ45 ports
+baudcom.cn offers The BD-S1010FSP is a 10/100Mbps unmanaged PoE switch. It has 8*10/100M PoE ports and 2*10/100M uplink RJ45 ports, Port 1-8 can support IEEE802.3af/at standard PoE, single port PoE power up to 30W, and the maximum POE output power is 120W. As a PoE power supply device, it can automatically detect and recognize the power receiving equipment that meets the standard and supply power through the network cable. It can supply power to POE terminal equipment such as wireless AP, webcam, VoIP phone, video access control intercom, etc. through network cable to meet the network environment that needs high-density PoE power supply. It is suitable for hotels, campuses, factory quarters and small and medium-sized enterprises to form an economy. Efficient network. Unmanaged model, plug and play, no configuration, easy to use.
+
+https://www.baudcom.cn/collections/poe-switch/products/10-port-10-100mbps-poe-switch
